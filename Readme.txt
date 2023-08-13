@@ -1,10 +1,9 @@
 Inteligent Craft
 
-SID: 2119372 ARU Cambridge 2023 Software principles MOD003484 TRI2 F01CAM live breif 2
 
 Project Description
 
-Intelligent craft is a Java written text based adventure game that has been developed as part of a group project with students 2129374 and 2110825. The game is set on a desolate planet where the player must build a rocket ship to escape. The game contains a combat mechanism where the user can attack heal or run. As the player progresses through they face enemies of an increasing difficulty to gain gold and XP to build parts for the rockets.
+Intelligent craft is a Java written text based adventure game that has been developed as part of a group project with students  and . The game is set on a desolate planet where the player must build a rocket ship to escape. The game contains a combat mechanism where the user can attack heal or run. As the player progresses through they face enemies of an increasing difficulty to gain gold and XP to build parts for the rockets.
 
 --------------------------------------------------------------------------------------
 
